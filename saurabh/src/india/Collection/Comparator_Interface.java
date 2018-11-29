@@ -21,6 +21,7 @@ public class Comparator_Interface
 	//Collections.reverse(l);
 	
 	Comparator<Integer> com=new comparatorImpl();
+	Collections.sort(l, com);
 	/*Or*/
 	//Comparator<Integer>com=new Comparator<Integer>() 
 	//this is anonymous class 

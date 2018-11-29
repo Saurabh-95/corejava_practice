@@ -5,7 +5,7 @@ public class Large_secondNo
 {
 	public static void main(String[] args) 
 	{
-		int fl=0 ,sl;
+		int sl;
 		System.out.println("enter the no's of array" );
 		Scanner sc=new Scanner(System.in);
 		int [] abc=new int[10];

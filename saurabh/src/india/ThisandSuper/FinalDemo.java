@@ -3,11 +3,14 @@ package india.ThisandSuper;
    class FinalDemo 
 {
 	final int i=50;
+	
 	public static void main(String[] args)
 	{
 	//	f obj=new f1();
 	//	obj.show();
 		
+		FinalDemo fd=new FinalDemo();
+		System.out.println(fd.i);
 	}
 
 	

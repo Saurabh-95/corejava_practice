@@ -6,7 +6,7 @@ public class VarArgu
 	public static void main(String[] args) 
 	{
 		Display obj =new Display();
-		obj.show(5,5);
+		obj.show(5);
 	}
 
 }

@@ -5,7 +5,7 @@ public class IndexOfDemo
 	public static void main(String[] args) 
 	{
 		String s="saurabh";
-		int a=s.indexOf('a',1);
+		int a=s.indexOf('a',2);
 		int b=s.lastIndexOf('a');
 		System.out.println(a);
 		System.out.println(b);

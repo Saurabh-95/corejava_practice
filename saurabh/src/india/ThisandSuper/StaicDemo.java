@@ -5,9 +5,10 @@ public class StaicDemo
 public static void main(String[] args) 
 {
 	Emp saurabh=new Emp();
+	
+	saurabh.show();
 	Emp satyendra=new Emp();
 
-	saurabh.show();
 	satyendra.show();
 }
 }

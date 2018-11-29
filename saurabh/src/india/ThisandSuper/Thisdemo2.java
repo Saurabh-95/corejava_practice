@@ -16,7 +16,7 @@ public class Thisdemo2
 	
 	public static void main(String[] args) 
 	{
-	Thisdemo2 obj=new Thisdemo2("pagal");
+	Thisdemo2 obj=new Thisdemo2("abc");
 		
 		System.out.println(obj.name);
 		

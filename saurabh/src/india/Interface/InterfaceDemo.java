@@ -23,7 +23,7 @@ class ABC implements Demo1
 public void show()
 	{
 			System.out.println("this is interface method");
-			System.out.println("this is interface variable:"+(a));
+			System.out.println("this is interface variable:"+a);
 	}
 
 }

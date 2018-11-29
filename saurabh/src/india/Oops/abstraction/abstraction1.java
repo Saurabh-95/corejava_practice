@@ -5,6 +5,8 @@ public class abstraction1
  public static void main(String[] args) 
  {
 	student obj =new Details();
+	
+	obj.msg();
 	obj.age();
 	obj.course();
 	obj.name();

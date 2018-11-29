@@ -47,7 +47,7 @@ public class Stack_demo
 		 {
 			 System.out.println();
 				System.out.println("enter 1 to push the element");
-				System.out.println("enter 2 to push the element");
+				System.out.println("enter 2 to pop the element");
 				System.out.println("enter 3 to Exit");
 				 num=sc.nextInt();
 			 if(num==1)
